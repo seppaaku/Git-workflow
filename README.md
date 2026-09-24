@@ -1,5 +1,6 @@
 ## Purpose
-This toolkit helps DevOps engineers manage and monitor Linux servers.
+This project provides Linux server administration tools,
+helping DevOps engineers manage and monitor Linux servers efficiently.
 # Git-workflow
 
 ## Work in progress! 
