@@ -33,7 +33,10 @@ Git-workflow/
 ├── configuration.md 
 └── troubleshooting.md
 
-'''
+
+```
+
+
 ## Development Workflow
 Development follows a feature-branch workflow:
 1. New work starts from an up-to-date `develop` branch.
