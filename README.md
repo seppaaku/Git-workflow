@@ -7,6 +7,8 @@ It was built to demonstrate a professional Git/GitHub workflow used
 in real-world team development.
 
 ## Project Structure
+'''
+
 Git-workflow/
 ├── README.md
 ├── LICENSE
@@ -28,7 +30,7 @@ Git-workflow/
 ├── configuration.md 
 └── troubleshooting.md
 
-
+'''
 ## Development Workflow
 Development follows a feature-branch workflow:
 1. New work starts from an up-to-date `develop` branch.
