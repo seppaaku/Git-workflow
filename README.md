@@ -7,7 +7,10 @@ It was built to demonstrate a professional Git/GitHub workflow used
 in real-world team development.
 
 ## Project Structure
-'''
+
+
+```
+
 
 Git-workflow/
 ├── README.md
